@@ -23,5 +23,10 @@ it is built to help moderators review what happened before taking action.
 ## links
 
 - website: <https://wiretrip.lol>
+- discord: <https://discord.gg/xxTBnpqcZm>
 - support: <mailto:support@wiretrip.lol>
 - contact: <mailto:hello@wiretrip.lol>
+
+## discordforge
+
+wiretrip is built by the team behind <https://discordforge.org>.
