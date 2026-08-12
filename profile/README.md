@@ -29,4 +29,6 @@ it is built to help moderators review what happened before taking action.
 
 ## discordforge
 
-wiretrip is built by the team behind <https://discordforge.org>.
+wiretrip is developed by a co-founder of <https://discordforge.org>.
+
+DiscordForge is a curated discovery platform for discord projects. wiretrip is one of the security projects being built around that ecosystem.
